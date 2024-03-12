@@ -5,25 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbf6d85e-35ed-4e0d-ac9d-1339198e290f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Less04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DaChieu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/Bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/Bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/Bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/Bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/Bai7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/BaiThucHanh2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/BaiThucHanh3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/thuchanh4/BaiThucHanh04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitap/thuchanh4/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/.idea/Less06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/src/kethua/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/src/kethua/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/src/kethua/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/src/kethua/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Less06/demo/src/kethua/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less01/Less01/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less01/Less01/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less03/Less03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less03/Less03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less03/Less03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less03/Less03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less05/Less05/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less05/Less05/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less05/Less05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less05/Less05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less05/Less05/out/production/Less05/baitap/bai4/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less05/Less05/out/production/Less05/baitap/bai4/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less05/Less05/out/production/Less05/baitap/bai4/BookManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less05/Less05/out/production/Less05/baitap/bai4/BookManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less05/Less05/src/baitap/bai4/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less05/Less05/src/baitap/bai4/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Less05/Less05/src/baitap/bai4/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Less05/Less05/src/baitap/bai4/BookManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +46,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,31 +59,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Bai1.executor": "Run",
-    "Application.Bai2.executor": "Run",
-    "Application.Bai4.executor": "Run",
-    "Application.Bai5.executor": "Run",
-    "Application.BaiThucHanh04.executor": "Run",
-    "Application.BaiThucHanh2.executor": "Run",
-    "Application.BaiThucHanh3.executor": "Run",
-    "Application.DemoString.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bai1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bai5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BaiThucHanh04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BaiThucHanh2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BaiThucHanh3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DemoString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Bai4">
+}</component>
+  <component name="RunManager" selected="Application.BaiThucHanh04">
     <configuration name="Bai1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="baitap.Bai1" />
       <module name="Less04" />
@@ -143,9 +151,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BaiThucHanh04" />
         <item itemvalue="Application.Bai4" />
         <item itemvalue="Application.Bai5" />
-        <item itemvalue="Application.BaiThucHanh04" />
         <item itemvalue="Application.Bai2" />
         <item itemvalue="Application.Bai1" />
       </list>
@@ -169,6 +177,13 @@
       <workItem from="1705407772020" duration="5962000" />
       <workItem from="1705453703994" duration="23000" />
       <workItem from="1705571737759" duration="1656000" />
+      <workItem from="1705577694090" duration="916000" />
+      <workItem from="1705580676578" duration="3004000" />
+      <workItem from="1705591372933" duration="6000" />
+      <workItem from="1706011179996" duration="305000" />
+      <workItem from="1706013844339" duration="119000" />
+      <workItem from="1706014766268" duration="645000" />
+      <workItem from="1706016370904" duration="1396000" />
     </task>
     <servers />
   </component>
