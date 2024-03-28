@@ -9,8 +9,10 @@ public class StudentRepository {
     public Student getOne() {
         return Student
                 .builder()
-                .name("Phong")
-                .address("Ba Vi")
+                .id("1")
+                .lastName("Phong")
+                .firstName("Duong")
+                .clazz("1")
                 .build();
     }
 }

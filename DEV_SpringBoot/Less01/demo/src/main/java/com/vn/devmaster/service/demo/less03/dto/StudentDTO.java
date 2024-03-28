@@ -1,17 +1,17 @@
-package com.vn.devmaster.service.demo.less03.entity;
+package com.vn.devmaster.service.demo.less03.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@AllArgsConstructor
 @NoArgsConstructor
-@Builder
+@AllArgsConstructor
 @Data
-public class Student {
+@Builder
+public class StudentDTO {
     private String id;
-    private String lastName;
-    private String firstName;
+    private String name;
     private String clazz;
+
 }
